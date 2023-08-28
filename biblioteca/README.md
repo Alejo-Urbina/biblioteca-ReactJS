@@ -4,6 +4,8 @@ Se necesita instalar axios para poder hacer el consumo al api, me toco usar un A
 
 Ya queda listo con los 8 componentes quedaron totalmente funcionales y con sus test.
 
+El reposritorio esta alojado en https://github.com/Alejo-Urbina/biblioteca-ReactJS/tree/Alejandro/biblioteca
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
