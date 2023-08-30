@@ -5,7 +5,7 @@ import Lend from '../lend/Lend';
 import Buy from '../buy/Buy';
 import ColorBox from '../colorBox/ColorBox';
 import Images from '../images/Images';
-
+import VisionMision from '../visionMision/VisionMision';
 
 function Body() {
   return (
@@ -15,7 +15,7 @@ function Body() {
       <Lend />
       <Buy />
       <Images />
-      <ColorBox />
+      <VisionMision />
     </div>
   );
 }
