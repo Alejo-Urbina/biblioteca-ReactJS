@@ -15,7 +15,7 @@ const Lend = () => {
 
   return (
     <div className="library-container">
-      <h1 className="library-title">Biblioteca</h1>
+      <h1 className="library-title">Biblioteca Prestamos</h1>
       <p className="book-count">Libros solicitados prestamo: {bookCount}</p>
       <p className="total-cost">Costo total: ${calculateTotalCost()}</p>
       <button className="request-button" onClick={incrementBookCount}>

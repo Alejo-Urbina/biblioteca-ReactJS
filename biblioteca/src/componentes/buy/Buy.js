@@ -15,7 +15,7 @@ const Buy = () => {
 
   return (
     <div className="library-container">
-      <h1 className="library-title">Biblioteca</h1>
+      <h1 className="library-title">Biblioteca Ventas</h1>
       <p className="book-count">Libros solicitados comprar: {bookCount}</p>
       <p className="total-cost">Costo total: ${calculateTotalCost()}</p>
       <button className="request-button" onClick={incrementBookCount}>
