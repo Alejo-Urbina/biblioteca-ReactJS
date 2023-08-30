@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './VisionMision.css';
 
-const LibraryInfoToggle = () => {
+const VisionMision = () => {
   const [showVision, setShowVision] = useState(true);
 
   const toggleInfo = () => {
@@ -29,4 +29,4 @@ const LibraryInfoToggle = () => {
   );
 };
 
-export default LibraryInfoToggle;
+export default VisionMision;
