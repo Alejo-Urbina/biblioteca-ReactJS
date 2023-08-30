@@ -1,0 +1,29 @@
+.library-info-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .library-info-button {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .library-info-button:hover {
+    background-color: #2980b9;
+  }
+  
+  .library-info-content {
+    margin-top: 20px;
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  
+  .library-info-content strong {
+    font-weight: bold;
+  }
